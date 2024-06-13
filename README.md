@@ -18,7 +18,7 @@ Click on a .js file for a bookmarklet.
 </ul>
   And there you have your extension!!
 
-(Also go to <a href="https://github.com/jdkgaming/jdk-bookmarklets>here</a> for more cool stuff!!)
+<p>(Also go to <a href="https://github.com/jdkgaming/jdk-bookmarklets>here</a> for more cool stuff!!)</p>
 
 # Extra
 <ol>
