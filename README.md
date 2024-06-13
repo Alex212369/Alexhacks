@@ -17,8 +17,7 @@ Click on a .js file for a bookmarklet.
   <li>Paste the bookmarklet code there (you can also put the bookmarklet in your bookmarks bar and drag it in)</li>
 </ul>
   And there you have your extension!!
-
-<p>(Also go to <a href="jdkgaming.nl>here</a> for more cool stuff!!)</p>
+(Also search for jdkgaming.nl for more cool stuff!!)
 
 # Extra
 <ol>
