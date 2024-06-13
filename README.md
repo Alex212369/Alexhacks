@@ -6,7 +6,7 @@ Click on a .js file for a bookmarklet.
   <li>Click on .js file</li>
   <li>Copy the WHOLE code</li>
   <li>Paste the code in the url bar of your bookmarks</li>
-  <li></li>Name it</li>
+  <li>Name it</li>
 And you're done!!
 </ul>
 
@@ -14,9 +14,10 @@ And you're done!!
 <ul>
   <li><p>Go to <a href="http://sandbox.self.li/bookmarklet-to-extension">this</a> webpage.</p></li>
   <li>Paste the bookmarklet code there (you can also put the bookmarklet in your bookmarks bar and drag it in)</li>
-And there you have your extension!!
+</ul>
+  And there you have your extension!!
 
-Also go to jdkgaming.nl for more cool stuff!!
+(Also go to jdkgaming.nl for more cool stuff!!)
 
 
 
