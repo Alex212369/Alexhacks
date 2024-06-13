@@ -20,12 +20,14 @@ Click on a .js file for a bookmarklet.
 (Also search for jdkgaming.nl for more cool stuff!!)
 
 # Extra
-I have blooket hacks (for in your console)
-I have kahoot hacks (for in your console)
-I have Quizlet hacks (for in your console)
-<br>
+<ul>
+  <il>I have blooket hacks (for in your console)</il>
+  <il>I have kahoot hacks (for in your console)</il>
+  <il>I have Quizlet hacks (for in your console)</il>
+</ul>
+
 (i have the blooket hacks frome <a href="https://github.com/DannyDan0167/Blooket-Cheats/blob/main/gui.min.js">here</a>.)
-<br>
+
 Enjoy!
 
 
