@@ -1,5 +1,5 @@
 # Instructions
-Click on a .js file for a bookmarklet.
+Blooket.GUI is the blooket hack, copy it, paste it in your console (ingame).
 
 # How to create the bookmarklets
 <ul>
