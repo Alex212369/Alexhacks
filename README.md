@@ -26,15 +26,7 @@ Blooket hacks
 
 Enjoy!
 
-<style>
-body {background-color: powderblue;
-     }
-</style>
-<body>
-
-<p>(Want to learn how to speak a computer language? Go to w3schools.com for torturials.)</p>
-
-</body>
+<p style="color:"red">(Want to learn how to speak a computer language? Go to w3schools.com for torturials.)</p>
 
 
 
