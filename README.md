@@ -26,7 +26,7 @@ Blooket hacks
 
 Enjoy!
 
-<p style="color:"red">(Want to learn how to speak a computer language? Go to w3schools.com for torturials.)</p>
+(Want to learn how to speak a computer language? Go to w3schools.com for torturials.)
 
 
 
