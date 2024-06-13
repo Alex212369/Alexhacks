@@ -7,8 +7,9 @@ Click on a .js file for a bookmarklet.
   <li>Copy the WHOLE code</li>
   <li>Paste the code in the url bar of your bookmarks</li>
   <li>Name it</li>
-And you're done!!
 </ul>
+ And you're done!!
+
 
 # How to create extensions
 <ul>
@@ -17,7 +18,22 @@ And you're done!!
 </ul>
   And there you have your extension!!
 
-(Also go to jdkgaming.nl for more cool stuff!!)
+(Also go to <a href="https://github.com/jdkgaming/jdk-bookmarklets>here</a> for more cool stuff!!)
+
+# Extra
+<ol>
+ <il>I have blooket hacks (for in your console)</il> 
+ <il>I have kahoot hacks (for in your console)</il>
+ <il>I have Quizlet hacks (for in your console)</il>
+</ol>
+
+(i have the blooket hacks frome <a href="https://github.com/DannyDan0167/Blooket-Cheats/blob/main/gui.min.js">here</a>.)
+<br>
+Enjoy!
+
+
+
+
 
 
 
