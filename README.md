@@ -23,7 +23,7 @@ Blooket.GUI is the blooket hack, copy it, paste it in your console (ingame).
 <ul>
   <li>Go to the map 'troll'</li>
   <li>There you have got to copy the code and paste it in your text app</li>
-  <li>Alle the different codes in different maps in the text app</li>
+  <li>Paste all the different codes in different maps in the text app</li>
   <li>Name the files as I named them</li>
   <li>Then go to files and put all the codes you made in one map</li>
   <li>Go to <a href="chrome://extensions/">this page</li>
