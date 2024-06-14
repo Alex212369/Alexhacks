@@ -1,4 +1,4 @@
-const link = document.getElementsByTagName("a")
+const link = document.getElementsByTagName("a") 
 
 const links = ["https://www.youtube.com/watch?v=dQw4w9WgXcQ"]
 
