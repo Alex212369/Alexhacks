@@ -1,3 +1,5 @@
+//Click the 3 dots in the top right corner and click download 
+
 const canvas = document.getElementById("breakoutCanvas");
 const ctx = canvas.getContext("2d");
 
